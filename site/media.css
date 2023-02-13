@@ -1,0 +1,112 @@
+@media (max-width: 1000px){
+	.general{
+		display: block;
+		
+		margin: 0px;
+
+	}
+
+	.centered{
+		font-size: 50px;
+	}
+
+	.z1{
+		width: 85%;
+		height: 115%;
+		margin-top: 5%;
+
+
+	}
+	.t1{
+		font-size: 50px;
+
+
+	}
+
+	.first{
+		
+
+	}
+
+	.general{
+		text-align: center;
+	}
+
+	.i2{
+		width: 120%;
+	}
+
+	.textGG{
+		padding: 1%;
+	}
+
+
+
+
+
+
+
+
+
+						/* Слайдер*/
+
+
+
+	#desktop:checked ~ #slider{ /*размер всего слайдера*/
+	max-width: 770px; /*максимальнная длинна*/
+}
+
+
+
+
+
+					/*footer*/
+
+
+
+
+footer{
+	font-family: arial;	
+
+display: block;
+text-align: center;
+
+
+}			
+
+.vv{
+	font-size: 45px;
+}
+
+
+#bb{
+	text-align: center;
+
+
+}
+#main1{
+	padding: 30px;
+	font-size: 28px;
+}
+
+
+
+a i{
+	font-size: 150%;
+}
+
+
+
+
+.menu{
+	font-size: 40px;
+}
+
+
+.img1{
+	margin-top:  120px;
+	margin-bottom:   30px;
+}
+
+
+}
